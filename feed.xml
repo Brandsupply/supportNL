@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Brandsupply Support NL</title>
-    <link href="https://brandsupply.github.io/supportNL/feed.xml" rel="self" />
-    <link href="https://brandsupply.github.io/supportNL" />
+    <link href="https://support.brandsupply.nl/feed.xml" rel="self" />
+    <link href="https://support.brandsupply.nl" />
     <updated>2024-10-09T10:12:07+02:00</updated>
     <author>
         <name>Matt</name>
     </author>
-    <id>https://brandsupply.github.io/supportNL</id>
+    <id>https://support.brandsupply.nl</id>
 
     <entry>
         <title>Hoe zit het met belasting?</title>
         <author>
             <name>Matt</name>
         </author>
-        <link href="https://brandsupply.github.io/supportNL/hoe-zit-het-met-belasting.html"/>
-        <id>https://brandsupply.github.io/supportNL/hoe-zit-het-met-belasting.html</id>
+        <link href="https://support.brandsupply.nl/hoe-zit-het-met-belasting.html"/>
+        <id>https://support.brandsupply.nl/hoe-zit-het-met-belasting.html</id>
             <category term="Oopdrachtgevers"/>
             <category term="Financieel"/>
 
@@ -36,8 +36,8 @@
         <author>
             <name>Matt</name>
         </author>
-        <link href="https://brandsupply.github.io/supportNL/welke-betaalmethoden-biedt-brandsupply.html"/>
-        <id>https://brandsupply.github.io/supportNL/welke-betaalmethoden-biedt-brandsupply.html</id>
+        <link href="https://support.brandsupply.nl/welke-betaalmethoden-biedt-brandsupply.html"/>
+        <id>https://support.brandsupply.nl/welke-betaalmethoden-biedt-brandsupply.html</id>
             <category term="Oopdrachtgevers"/>
             <category term="Financieel"/>
 
@@ -60,8 +60,8 @@
         <author>
             <name>Matt</name>
         </author>
-        <link href="https://brandsupply.github.io/supportNL/wat-betekent-no-cure-no-pay-precies.html"/>
-        <id>https://brandsupply.github.io/supportNL/wat-betekent-no-cure-no-pay-precies.html</id>
+        <link href="https://support.brandsupply.nl/wat-betekent-no-cure-no-pay-precies.html"/>
+        <id>https://support.brandsupply.nl/wat-betekent-no-cure-no-pay-precies.html</id>
             <category term="Oopdrachtgevers"/>
             <category term="Financieel"/>
 
@@ -75,7 +75,7 @@
             <![CDATA[
                 <p>Als een opdrachtgever aan het einde van de wedstrijdperiode niet tevreden is dan kan deze, zonder opgaaf van reden, de wedstrijd sluiten zonder winnaar. De opdrachtgever hoeft dan geen award en geen succesfee te betalen.</p>
 <p>Wij vertrouwen er volledig op dat de designers met een goed ontwerp komen, maar zijn pas tevreden als de opdrachtgever dat ook is!</p>
-<p>De ‘no cure no pay garantie’ vervalt bij <a href="https://brandsupply.github.io/supportNL/wat-is-een-gegarandeerde-wedstrijd.html" title="Wat is een gegarandeerde wedstrijd?">gegarandeerde</a> wedstrijden. In dat geval wordt het volledige bedrag vooraf betaald en niet terugbetaald. De opdrachtgever is in dit geval verplicht een winnaar te selecteren.</p>
+<p>De ‘no cure no pay garantie’ vervalt bij <a href="https://support.brandsupply.nl/wat-is-een-gegarandeerde-wedstrijd.html" title="Wat is een gegarandeerde wedstrijd?">gegarandeerde</a> wedstrijden. In dat geval wordt het volledige bedrag vooraf betaald en niet terugbetaald. De opdrachtgever is in dit geval verplicht een winnaar te selecteren.</p>
             ]]>
         </content>
     </entry>
@@ -84,8 +84,8 @@
         <author>
             <name>Matt</name>
         </author>
-        <link href="https://brandsupply.github.io/supportNL/ik-ben-opdrachtgever-wanneer-betaal-ik-wat.html"/>
-        <id>https://brandsupply.github.io/supportNL/ik-ben-opdrachtgever-wanneer-betaal-ik-wat.html</id>
+        <link href="https://support.brandsupply.nl/ik-ben-opdrachtgever-wanneer-betaal-ik-wat.html"/>
+        <id>https://support.brandsupply.nl/ik-ben-opdrachtgever-wanneer-betaal-ik-wat.html</id>
             <category term="Oopdrachtgevers"/>
             <category term="Financieel"/>
 
@@ -97,13 +97,13 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Als opdrachtgever maak je bij de start van je wedstrijd de keuze tussen een niet-gegarandeerde wedstrijd (<a href="https://brandsupply.github.io/supportNL/wat-betekent-no-cure-no-pay-precies.html" title="Wat betekent no cure no pay precies?">no cure no pay</a>!) of een gegarandeerde wedstrijd.</p>
+                <p>Als opdrachtgever maak je bij de start van je wedstrijd de keuze tussen een niet-gegarandeerde wedstrijd (<a href="https://support.brandsupply.nl/wat-betekent-no-cure-no-pay-precies.html" title="Wat betekent no cure no pay precies?">no cure no pay</a>!) of een gegarandeerde wedstrijd.</p>
 <p>Bij een gegarandeerde wedstrijd betaal je in één keer het hele bedrag voor aanvang van de wedstrijd.</p>
 <p>Bij een niet-gegarandeerde wedstrijd wordt de plaatsingskosten worden bij plaatsing van de wedstrijd voldaan.</p>
 <p>Op het moment dat een opdrachtgever een winnaar kiest, worden de award en de succesfee in rekening gebracht. Geen winnaar? Dan betaalt men ook geen award en succesfee!</p>
 <p>De award gaat vervolgens nog niet direct naar de ontwerper. Eerst ontvangt de designer automatisch bericht met de vraag de bestanden over te dragen via de link die Brandsupply toestuurt. De opdrachtgever wordt dan gevraagd die bestanden goed te keuren. Zodra de bestanden in goede orde zijn ontvangen, zal Brandsupply de ontwerper uitbetalen.</p>
 <p>Dit is een geautomatiseerd proces.</p>
-<p><a href="https://brandsupply.github.io/supportNL/wat-gebeurt-er-als-een-wedstrijd-afloopt.html" title="Wat gebeurt er als een wedstrijd afloopt?">Wat gebeurt er als een wedstrijd afloopt?</a></p>
+<p><a href="https://support.brandsupply.nl/wat-gebeurt-er-als-een-wedstrijd-afloopt.html" title="Wat gebeurt er als een wedstrijd afloopt?">Wat gebeurt er als een wedstrijd afloopt?</a></p>
             ]]>
         </content>
     </entry>
@@ -112,8 +112,8 @@
         <author>
             <name>Matt</name>
         </author>
-        <link href="https://brandsupply.github.io/supportNL/hoeveel-kost-een-wedstrijd-me.html"/>
-        <id>https://brandsupply.github.io/supportNL/hoeveel-kost-een-wedstrijd-me.html</id>
+        <link href="https://support.brandsupply.nl/hoeveel-kost-een-wedstrijd-me.html"/>
+        <id>https://support.brandsupply.nl/hoeveel-kost-een-wedstrijd-me.html</id>
             <category term="Oopdrachtgevers"/>
             <category term="Financieel"/>
 
@@ -133,7 +133,7 @@
 <li>De successfee betaalt de opdrachtgever als de wedstrijd met succes is afgesloten.</li>
 </ul>
 <p>Om opdrachtgevers op weg te helpen, biedt Brandsupply per ontwerpcategorie drie pakketten aan: brons, zilver en goud. Alles is overzichtelijk terug te vinden op de <a href="http://www.brandsupply.nl/prijzen" title="Brandsupply prijzen" target="_blank" rel="noopener noreferrer">prijzenpagina</a>.</p>
-<p><a href="https://brandsupply.github.io/supportNL/wat-betekent-no-cure-no-pay-precies.html" title="Wat betekent no cure no pay precies?"><strong>No cure no pay!</strong></a> Wij zijn pas tevreden als de opdrachtgever dat is. De opdrachtgever kan een wedstrijd aan het einde van de looptijd afsluiten zonder winnaar. De opdrachtgever hoeft dan geen award en succesfee te betalen en is alleen de plaatsingskosten kwijt.</p>
+<p><a href="https://support.brandsupply.nl/wat-betekent-no-cure-no-pay-precies.html" title="Wat betekent no cure no pay precies?"><strong>No cure no pay!</strong></a> Wij zijn pas tevreden als de opdrachtgever dat is. De opdrachtgever kan een wedstrijd aan het einde van de looptijd afsluiten zonder winnaar. De opdrachtgever hoeft dan geen award en succesfee te betalen en is alleen de plaatsingskosten kwijt.</p>
             ]]>
         </content>
     </entry>
@@ -142,8 +142,8 @@
         <author>
             <name>Matt</name>
         </author>
-        <link href="https://brandsupply.github.io/supportNL/waar-vind-ik-mijn-factuur.html"/>
-        <id>https://brandsupply.github.io/supportNL/waar-vind-ik-mijn-factuur.html</id>
+        <link href="https://support.brandsupply.nl/waar-vind-ik-mijn-factuur.html"/>
+        <id>https://support.brandsupply.nl/waar-vind-ik-mijn-factuur.html</id>
             <category term="Oopdrachtgevers"/>
             <category term="Financieel"/>
 
@@ -173,8 +173,8 @@
         <author>
             <name>Matt</name>
         </author>
-        <link href="https://brandsupply.github.io/supportNL/hoe-werken-de-comments.html"/>
-        <id>https://brandsupply.github.io/supportNL/hoe-werken-de-comments.html</id>
+        <link href="https://support.brandsupply.nl/hoe-werken-de-comments.html"/>
+        <id>https://support.brandsupply.nl/hoe-werken-de-comments.html</id>
             <category term="Wedstrijd beheren"/>
             <category term="Oopdrachtgevers"/>
 
@@ -193,7 +193,7 @@
 <p>Opdrachtgevers en designers kunnen elkaar ook privé een bericht sturen. Die berichten verschijnen in de Inbox in je MyBrandsupply profiel.</p>
 <p>Ook andere designers kunnen comments achterlaten bij de inzendingen. Soms kan het perspectief van een andere designer ook interessant zijn voor de opdrachtgever.</p>
 <p>Brandsupply houdt zich het recht voor om, als nodig, comments te verwijderen.</p>
-<p><a href="https://brandsupply.github.io/supportNL/wat-betekenen-de-sterren-onder-de-inzendingen.html" title="Wat betekenen de sterren onder de inzendingen?">Wat betekenen de sterren onder de inzendingen?</a></p>
+<p><a href="https://support.brandsupply.nl/wat-betekenen-de-sterren-onder-de-inzendingen.html" title="Wat betekenen de sterren onder de inzendingen?">Wat betekenen de sterren onder de inzendingen?</a></p>
             ]]>
         </content>
     </entry>
@@ -202,8 +202,8 @@
         <author>
             <name>Matt</name>
         </author>
-        <link href="https://brandsupply.github.io/supportNL/wat-betekenen-de-sterren-onder-de-inzendingen.html"/>
-        <id>https://brandsupply.github.io/supportNL/wat-betekenen-de-sterren-onder-de-inzendingen.html</id>
+        <link href="https://support.brandsupply.nl/wat-betekenen-de-sterren-onder-de-inzendingen.html"/>
+        <id>https://support.brandsupply.nl/wat-betekenen-de-sterren-onder-de-inzendingen.html</id>
             <category term="Wedstrijd beheren"/>
             <category term="Oopdrachtgevers"/>
 
@@ -228,8 +228,8 @@
         <author>
             <name>Matt</name>
         </author>
-        <link href="https://brandsupply.github.io/supportNL/originaliteit-en-auteursrecht-tips-voor-opdrachtgevers.html"/>
-        <id>https://brandsupply.github.io/supportNL/originaliteit-en-auteursrecht-tips-voor-opdrachtgevers.html</id>
+        <link href="https://support.brandsupply.nl/originaliteit-en-auteursrecht-tips-voor-opdrachtgevers.html"/>
+        <id>https://support.brandsupply.nl/originaliteit-en-auteursrecht-tips-voor-opdrachtgevers.html</id>
             <category term="Wedstrijd beheren"/>
             <category term="Oopdrachtgevers"/>
 
@@ -254,8 +254,8 @@
         <author>
             <name>Matt</name>
         </author>
-        <link href="https://brandsupply.github.io/supportNL/hoeveel-tijd-heb-ik-als-opdrachtgever-om-een-winnaar-te-kiezen.html"/>
-        <id>https://brandsupply.github.io/supportNL/hoeveel-tijd-heb-ik-als-opdrachtgever-om-een-winnaar-te-kiezen.html</id>
+        <link href="https://support.brandsupply.nl/hoeveel-tijd-heb-ik-als-opdrachtgever-om-een-winnaar-te-kiezen.html"/>
+        <id>https://support.brandsupply.nl/hoeveel-tijd-heb-ik-als-opdrachtgever-om-een-winnaar-te-kiezen.html</id>
             <category term="Wedstrijd beëndigen"/>
             <category term="Oopdrachtgevers"/>
 
@@ -269,9 +269,9 @@
             <![CDATA[
                 <p>De opdrachtgever kiest bij de start van de wedstrijd ook de duur van de wedstrijd. Als de wedstrijd is afgelopen, is het tijd om een winnaar te kiezen. We vragen de opdrachtgever om binnen een week een winnaar te kiezen. </p>
 <p>De meeste opdrachtgevers kunnen snel beslissen, omdat ze de wedstrijd goed hebben gevolgd en feedback hebben gegeven aan de designers. Meestal is dan tegen het einde van de wedstrijd wel duidelijk welke ontwerpen tot de favorieten behoren. Sommige opdrachtgevers hebben iets langer nodig, bijvoorbeeld om te overleggen.</p>
-<p>Het kan voorkomen dat de opdrachtgever nog niet 100% overtuigd is van de inzendingen op het moment dar de wedstrijd afloopt. Opdrachtgevers kunnen de wedstrijd met een week <a href="https://brandsupply.github.io/supportNL/hoe-kan-ik-mijn-wedstrijd-verlengen.html" title="Hoe kan ik mijn wedstrijd verlengen?">verlengen</a>.</p>
+<p>Het kan voorkomen dat de opdrachtgever nog niet 100% overtuigd is van de inzendingen op het moment dar de wedstrijd afloopt. Opdrachtgevers kunnen de wedstrijd met een week <a href="https://support.brandsupply.nl/hoe-kan-ik-mijn-wedstrijd-verlengen.html" title="Hoe kan ik mijn wedstrijd verlengen?">verlengen</a>.</p>
 <p>De opdrachtgever is overigens niet verplicht tot het kiezen van een winnaar en mag, indien er geen geschikte ontwerpen bij zitten, de wedstrijd afsluiten zonder winnaar. Wij vertrouwen op onze designers en merken dat dit zeer weinig voorkomt.</p>
-<p>De opdrachtgever is wel verplicht tot het kiezen van een winnaar als er is gekozen voor een <a href="https://brandsupply.github.io/supportNL/wat-is-een-gegarandeerde-wedstrijd.html" title="Wat is een gegarandeerde wedstrijd?">gegarandeerde wedstrijd</a>.</p>
+<p>De opdrachtgever is wel verplicht tot het kiezen van een winnaar als er is gekozen voor een <a href="https://support.brandsupply.nl/wat-is-een-gegarandeerde-wedstrijd.html" title="Wat is een gegarandeerde wedstrijd?">gegarandeerde wedstrijd</a>.</p>
             ]]>
         </content>
     </entry>
